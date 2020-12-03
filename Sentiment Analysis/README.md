@@ -110,7 +110,7 @@ plt.xlabel('Lines',fontsize=20)
 plt.ylabel('Sentiment',fontsize=20)
 plt.show() 
 ````
-![Sentiment Analysis Screenshot](HP_Sentiment_Analysis.png?raw=true)
+![Screenshot](https://github.com/CynicallyAcclaimed/Harry-Potter-and-the-Basics-of-NLP/blob/main/HP_Sentiment_Analysis.png?raw=true)
 
 The most negative period in the entire series occurs between lines 48,000 to 49,000 - at the end of the sixth book. This coincides with Dumbledore's death.
 
